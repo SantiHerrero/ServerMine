@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "e437ecd7eabd4f3e9d7d201ba17f76ee"
+	name: "PiBarddo#e437ecd7"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
