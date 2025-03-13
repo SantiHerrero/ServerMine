@@ -1,0 +1,38 @@
+﻿# Server runtime files
+*.log
+logs/
+crash-reports/
+banned-ips.json
+banned-players.json
+ops.json
+usercache.json
+whitelist.json
+
+# World data that changes frequently
+*.dat
+*.dat_old
+session.lock
+region/
+data/
+
+# Server performance files
+debug/
+dumps/
+
+# Backup files
+backup/
+backups/
+*.bak
+
+# Configuration files that might contain sensitive information
+server.properties
+eula.txt
+
+# Temporary files
+*.tmp
+temp/
+tmp/
+
+# System-specific files
+.DS_Store
+Thumbs.db
