@@ -8,13 +8,6 @@ ops.json
 usercache.json
 whitelist.json
 
-# World data that changes frequently
-*.dat
-*.dat_old
-session.lock
-region/
-data/
-
 # Server performance files
 debug/
 dumps/
